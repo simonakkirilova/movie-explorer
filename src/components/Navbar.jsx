@@ -21,7 +21,6 @@ export default function Navbar() {
 
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto">
-            {/* Тук можеш да добавяш други бутони или линкове, ако искаш */}
           </ul>
         </div>
       </div>
